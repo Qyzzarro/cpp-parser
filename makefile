@@ -1,4 +1,4 @@
-CXX = g++
+CXX = clang++
 SRC = ./source
 INCLUDE = -I ./include
 STANDART = -std=c++11
